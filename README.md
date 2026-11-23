@@ -303,6 +303,16 @@ Limitaciones:
 
 ---
 
+## Video explicativo
+
+Video donde se explica la arquitectura del código, los algoritmos y se muestra el programa funcionando:
+
+[![Ver el video explicativo en YouTube](https://img.youtube.com/vi/al7lnwVWVMw/0.jpg)](https://www.youtube.com/watch?v=al7lnwVWVMw)
+
+▶️ [Ver en YouTube](https://www.youtube.com/watch?v=al7lnwVWVMw)
+
+---
+
 ## Notas
 
 - Si cambias el tamaño de la ventana, la grilla se recalcula. Las figuras conservan sus vértices, pero si el origen está en el centro, su posición relativa a él cambia.
