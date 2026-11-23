@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\computacionc\practica compc\Main.cpp(1198,55): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\computacionc\practica compc\Main.cpp(1205,64): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  practica compc.vcxproj -> C:\computacionc\practica compc\x64\Debug\practica compc.exe
